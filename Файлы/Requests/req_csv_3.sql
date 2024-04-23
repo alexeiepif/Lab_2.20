@@ -1,0 +1,1 @@
+SELECT * FROM apple WHERE Juiciness BETWEEN 3 and 4 and Weight>0 and Quality = 'good';

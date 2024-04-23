@@ -1,0 +1,1 @@
+SELECT A_id, Size, Quality FROM apple WHERE Acidity<0 and Juiciness<0 ORDER BY Size;

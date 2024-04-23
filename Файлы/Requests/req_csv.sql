@@ -1,0 +1,1 @@
+SELECT * FROM apple WHERE Sweetness BETWEEN 3 and 4;

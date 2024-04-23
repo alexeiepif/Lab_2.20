@@ -1,0 +1,1 @@
+SELECT Quality, count(*) AS COUNT FROM apple WHERE Sweetness BETWEEN 3 and 4 GROUP by Quality;
